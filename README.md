@@ -15,7 +15,6 @@ The pipeline covers the full data science lifecycle: data understanding → clea
 ## 🗂️ Project Structure
 
 ```
-├── Hackathon_Mentor1_Group_5.ipynb   # Main notebook (all parts)
 ├── Mentor 1 data set.csv             # Input dataset (place in /content/)
 └── README.md
 ```
@@ -109,7 +108,7 @@ Visualizations include: metrics bar chart, confusion matrices, and ROC curves.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/employee-attrition-prediction.git
+git clone https://github.com/draj05242-source/employee-attrition-prediction.git
 cd employee-attrition-prediction
 ```
 
